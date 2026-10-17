@@ -1,4 +1,4 @@
-# Tanya Produk — Q&A Penasihat
+# Tanya Produk — Q&A Medical Advisor Wellous Indonesia
 
 Dashboard pencarian tanya-jawab produk (DVN, Novia, Erojan, S-Glow, Coffiyy, BLZ Pro, EVN) yang dirangkum dari
 grup WhatsApp "Indo - Product Q & A". Pegangan internal tim sales — ke customer pakai bahasa sendiri & patuhi aturan
